@@ -1,0 +1,37 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 7415,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2017-09-18T04:53:38-05:-30"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 6765,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2020-10-25T08:43:18-04:-30"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 1773,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2016-03-12T01:59:01-04:-30"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 9118,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2018-06-30T08:44:51-05:-30"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 7296,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2017-03-20T02:23:16-04:-30"
+  }
+]
